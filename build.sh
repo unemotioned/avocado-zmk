@@ -5,8 +5,8 @@ build_reset=false
 build_clean=false
 
 # NOTE: Change the keyboard names, controller type and etc from here.
-shield_left='advocado_left'
-shield_right='advocado_right'
+shield_left='avocado_left'
+shield_right='avocado_right'
 board='nice_nano_v2'
 
 venv_dir="$HOME/venv/zmk"
