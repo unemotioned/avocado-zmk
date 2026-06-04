@@ -282,7 +282,7 @@
             >;
         };
 
-        layer_4 {
+        boot {
             bindings = <
 &none  &none  &none  &none  &bootloader                    &bootloader  &none  &none  &none  &none
 &none  &none  &none  &none  &none                          &none        &none  &none  &none  &none
